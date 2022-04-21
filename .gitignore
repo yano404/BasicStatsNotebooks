@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+gr-temp
+img/*
+!.gitignore
+*.key
+# mac
+.DS_Store
+# vim
+*~
